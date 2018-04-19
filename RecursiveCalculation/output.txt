@@ -1,0 +1,30 @@
+
+Name: Tellon Smith
+Course: CS 1063 - Data Structures & ADT, Spring 15, Dr. Stringfellow
+Program Assignment: #4 - Problem 1
+Due Date: Friday, Mar. 27, 2015, 9AM
+Purpose: This program computes the value of f(n) iteratively and 
+         recursively and also computes the value of g(n) recursively
+
+Welcome to the Recursive Functions Program!
+
+Results of calculations form 1 to 15
+n       f(n) rec       f(n) loop       g(n-1)
+---------------------------------------------
+1       1              1               1
+2       3              3               3
+3       7              7               7
+4       15             15              15
+5       31             31              31
+6       63             63              63
+7       127            127             127
+8       255            255             255
+9       511            511             511
+10      1023           1023            1023
+11      2047           2047            2047
+12      4095           4095            4095
+13      8191           8191            8191
+14      16383          16383           16383
+15      32767          32767           32767
+
+Thank you for using the Recursive Functions Program... Goodbye!
